@@ -1,40 +1,69 @@
 {
   "title": "Parsippany -Troy Hills STEM Pathways",
-  "document_type": "poster",
   "outline": [
     {
-      "level": "contact",
+      "level": "H1",
       "text": "PATHWAY OPTIONS",
       "page": 1
     },
     {
-      "level": "contact",
+      "level": "H1",
       "text": "REGULAR PATHWAY",
       "page": 1
     },
     {
-      "level": "address",
+      "level": "H1",
       "text": "Participate in a minimum of 3 STEM",
       "page": 1
     },
     {
-      "level": "contact",
+      "level": "H1",
       "text": "DISTINCTION PATHWAY",
       "page": 1
     },
     {
-      "level": "title",
-      "text": "Parsippany -Troy Hills STEM Pathways",
+      "level": "H3",
+      "text": "Mission Statement: To provide PTHSD high school students with the opportunity to",
       "page": 1
     },
     {
-      "level": "address",
-      "text": "Maintain an overall 2.85 GPA",
+      "level": "H3",
+      "text": "4 credits of Math",
       "page": 1
     },
     {
-      "level": "address",
-      "text": "Maintain an overall 3.5 GPA",
+      "level": "H3",
+      "text": "4 credits of Science",
+      "page": 1
+    },
+    {
+      "level": "H3",
+      "text": "4 credits of STEM-designated electives",
+      "page": 1
+    },
+    {
+      "level": "H3",
+      "text": "Join and actively participate in a",
+      "page": 1
+    },
+    {
+      "level": "H3",
+      "text": "4 credits of Math - At least one math",
+      "page": 1
+    },
+    {
+      "level": "H3",
+      "text": "4 credits of Science- At least one",
+      "page": 1
+    },
+    {
+      "level": "H3",
+      "text": "Goals:",
+      "page": 1
+    },
+    {
+      "level": "H3",
+      "text": "future opportunities.",
       "page": 1
     }
   ]

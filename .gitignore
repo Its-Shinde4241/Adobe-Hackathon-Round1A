@@ -2,3 +2,10 @@
 /shelf/
 /.idea/workspace.xml
 .idea/
+venv/
+env/
+.venv/
+.env/
+ENV/
+env.bak/
+venv.bak/
